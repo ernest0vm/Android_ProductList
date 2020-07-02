@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">My store</string>
+    <string name="page_label">Page: </string>
+    <string name="search_title">search</string>
+    <string name="previous_label">previous</string>
+    <string name="next_label">next</string>
+    <string name="finded_label">"finded "</string>
+    <string name="products_label">" products"</string>
+    <string name="finding_label">"finding "</string>
+    <string name="search_hint">Ex: computer</string>
+</resources>
