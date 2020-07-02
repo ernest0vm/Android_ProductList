@@ -3,8 +3,8 @@
     <string name="page_label">"Pagina: "</string>
     <string name="app_name">Mi tienda</string>
     <string name="search_title">busqueda</string>
-    <string name="previous_label">siguiente</string>
-    <string name="next_label">anterior</string>
+    <string name="previous_label">anterior</string>
+    <string name="next_label">siguiente</string>
     <string name="finded_label">"encontrados "</string>
     <string name="products_label">" productos"</string>
     <string name="finding_label">"buscando "</string>
